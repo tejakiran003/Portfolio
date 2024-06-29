@@ -21,7 +21,7 @@ a {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url(./tejbag.jpeg);
+  background: url(img/tejbag.jpeg);
   background-size: cover;
 }
   
